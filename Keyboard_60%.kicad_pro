@@ -330,6 +330,10 @@
     [
       "01d5aa47-03a0-4747-998b-393b2b88e5ef",
       "USB and Power management"
+    ],
+    [
+      "45c5f3d6-3be9-46e6-9c92-280cf0e0d840",
+      "switch_matrix"
     ]
   ],
   "text_variables": {}
