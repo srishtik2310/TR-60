@@ -76,4 +76,9 @@
   (pad "20" thru_hole circle (at 0.58 -0.58) (size 0.4 0.4) (drill 0.2) (layers "*.Cu") (tstamp 72b639a3-9ec6-487c-a2b9-63ffafd64195))
   (pad "21" thru_hole circle (at -0.58 0.58) (size 0.4 0.4) (drill 0.2) (layers "*.Cu") (tstamp ac7899bd-ceb7-42df-b69b-29871d45f498))
   (pad "22" thru_hole circle (at 0.58 0.58) (size 0.4 0.4) (drill 0.2) (layers "*.Cu") (tstamp c4c93c0a-dca3-4aa4-b1ca-2774e230791d))
+  (model "${KIPRJMOD}/3d-models/VQFN-16.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

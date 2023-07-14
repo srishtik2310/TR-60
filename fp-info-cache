@@ -1,4 +1,4 @@
-21621619717087941
+21648644929310020
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90069,6 +90069,41 @@ varistor
 2
 2
 keyboard
+BLE_ANTENNA
+
+
+0
+0
+0
+keyboard
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+keyboard
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+keyboard
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+keyboard
+DB_CONN
+
+
+0
+10
+10
+keyboard
 JST-2-pin
 <b>SM02B-SRSS-TB</b><br>
 
@@ -90090,6 +90125,20 @@ LED
 2
 2
 keyboard
+L_0402_1005Metric
+Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+keyboard
+L_0603_1608Metric
+Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+keyboard
 QFN-16
 
 
@@ -90103,6 +90152,27 @@ QFN-40
 0
 41
 41
+keyboard
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+keyboard
+SMD-2_crystal
+
+
+0
+2
+2
+keyboard
+SMD-4_crystal
+
+
+0
+4
+4
 keyboard
 SOT-23-5
 SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -90166,3 +90236,45 @@ Cherry MX keyswitch 6.25u PCB
 0
 2
 2
+keyboard
+SW_Cherry_MX_7.00u_PCB
+
+
+0
+2
+2
+keyboard
+SolderBridge
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 1 copper strip
+net tie solder jumper bridged
+0
+2
+2
+keyboard
+TC2030-IDC-NL
+The TC2030-IDC-NL is our "No Legs" 6-pin Plug-of-Nails Cable
+
+0
+6
+6
+keyboard
+USON-10
+
+
+0
+10
+10
+keyboard
+aqfn73
+
+
+0
+90
+90
+keyboard
+tyye_c_connector
+
+
+0
+16
+13

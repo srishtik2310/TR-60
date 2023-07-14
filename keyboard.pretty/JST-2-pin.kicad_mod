@@ -32,4 +32,9 @@
   (pad "" smd rect (at 1.8 1.9 90) (size 1.8 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e171fa63-c45a-4ab8-83a3-9837d83d25a6))
   (pad "1" smd rect (at -0.5 -1.975 90) (size 1.55 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c99c4ee1-529d-4b77-89a3-50ab54e873b5))
   (pad "2" smd rect (at 0.5 -1.975 90) (size 1.55 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bce9c490-46af-4c9a-b391-867c40c25e94))
+  (model "${KIPRJMOD}/3d-models/JST-2pin.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
