@@ -42,8 +42,8 @@
   (pad "" np_thru_hole circle (at -7.62 5.08) (size 1.7 1.7) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp 06d090ba-6d24-4e8c-ba9b-86c56d1bd698))
   (pad "" np_thru_hole circle (at -2.54 5.08) (size 4 4) (drill 4) (layers "*.Cu" "*.Mask") (tstamp 15fba09e-e8a4-45cc-85c9-3fb8298dc92a))
   (pad "" np_thru_hole circle (at 2.54 5.08) (size 1.7 1.7) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp 9be71b4b-976f-45e7-97ed-42fe4498c1b0))
-  (pad "1" thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 73b95d02-93ae-4074-b7dd-1c56e45ac11d))
-  (pad "2" thru_hole circle (at -6.35 2.54) (size 2.2 2.2) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp f0933f6a-097c-4c83-88d7-90db622ab056))
+  (pad "1" thru_hole circle (at -6.35 2.54) (size 2.2 2.2) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp f0933f6a-097c-4c83-88d7-90db622ab056))
+  (pad "2" thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 73b95d02-93ae-4074-b7dd-1c56e45ac11d))
   (model "${KICAD6_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.25u_PCB.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
