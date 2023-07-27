@@ -1,4 +1,4 @@
-21650367947523464
+21662222912525088
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90146,11 +90146,18 @@ inductor
 2
 2
 keyboard
+OSHW-Logo
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0
+keyboard
 QFN-16
 
 
 0
-22
+21
 17
 keyboard
 QFN-40
@@ -90187,6 +90194,13 @@ SOT TO_SOT_SMD
 0
 5
 5
+keyboard
+SPDT
+
+
+0
+7
+3
 keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -90238,8 +90252,8 @@ Cherry MX keyswitch 2.75u PCB
 2
 keyboard
 SW_Cherry_MX_6.25u_PCB
-Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 6.25u PCB
+
+
 0
 2
 2
@@ -90278,6 +90292,41 @@ aqfn73
 0
 90
 90
+keyboard
+creator_logo
+
+
+0
+0
+0
+keyboard
+keyboard-name-silkscreen
+
+
+0
+0
+0
+keyboard
+keyboard-name-soldermask
+
+
+0
+0
+0
+keyboard
+logo-silkscreen
+
+
+0
+0
+0
+keyboard
+logo-soldermask
+
+
+0
+0
+0
 keyboard
 tyye_c_connector
 

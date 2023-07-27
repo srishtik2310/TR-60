@@ -31,7 +31,7 @@
     (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp a50904ed-b6d2-4311-a422-4b4855c84862))
   (pad "1" smd rect (at -1.2 0) (size 0.65 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 734c9770-42a4-43a7-8c37-0254577b280a))
   (pad "2" smd rect (at 1.2 0) (size 0.65 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d3c435f8-43ce-484e-b8a7-89e3d1ef61c5))
-  (model "${KIPRJMOD}/3d-models/SMD-2.step" hide
+  (model "${KIPRJMOD}/3d-models/SMD-2.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
