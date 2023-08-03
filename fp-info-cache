@@ -1,4 +1,4 @@
-21662222912525088
+21667296749977173
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90167,6 +90167,13 @@ QFN-40
 41
 41
 keyboard
+RST_SW
+
+
+0
+4
+2
+keyboard
 R_0402_1005Metric
 Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor
@@ -90286,6 +90293,13 @@ USON-10
 10
 10
 keyboard
+ZMK_logo
+
+
+0
+0
+0
+keyboard
 aqfn73
 
 
@@ -90326,6 +90340,13 @@ logo-soldermask
 
 0
 0
+0
+keyboard
+salvation_mounting_holes
+
+
+0
+1
 0
 keyboard
 tyye_c_connector
