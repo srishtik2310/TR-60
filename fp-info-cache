@@ -1,4 +1,4 @@
-21668988027591919
+21670679247287596
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90068,6 +90068,13 @@ varistor
 0
 2
 2
+keyboard
+BLE-symbol
+
+
+0
+0
+0
 keyboard
 BLE_ANTENNA
 
